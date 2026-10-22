@@ -72,9 +72,6 @@ A Unity project focused on character construction, movement, and animation scrip
 
 **[View Unity Rocky](https://github.com/skc1339/Rocky-Unity)**
 
-### Concurrency and Threading
-A programming project exploring concurrent execution and multithreading concepts.
-
 ## Technical Skills
 
 **Languages:** Java, C#, Swift, Kotlin, JavaScript, HTML, CSS, SQL, C++
