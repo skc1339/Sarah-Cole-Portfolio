@@ -1,38 +1,88 @@
-# Sarah-Cole-Portfolio
-Welcome to my portfolio. I am a Computer Science student focused on developing interactive applications and exploring computer graphics, animation, and software development.
+# Software Engineering Portfolio
 
-Below are selected projects demonstrating my skills in iOS development, computer graphics, 3D animation, and concurrency.## Featured Projects
+Welcome to my software engineering portfolio!
 
-# 🤖 Project A.C.E. (Autonomous Canine Explorer)
+I'm a recent graduate with a **Bachelor of Science in Computer Science from Colorado State University Global**. My projects demonstrate hands-on experience in Java, C#, Swift, JavaScript, mobile development, backend APIs, computer graphics, and robotics simulation.
 
-**Unity 6 • C# • Robotics Simulation**
+I'm currently seeking **entry-level and junior software engineering opportunities**, including internships, apprenticeships, and software development programs.
 
-Project A.C.E. is a Unity robotics project focused on developing an autonomous robotic dog. The project began with a keyboard-controlled movement prototype and is being expanded into an AI-driven robotics simulation.
+## Featured Projects
 
-### Current Features
-- Unity 6 project
-- C# movement controller
-- WASD keyboard movement
-- Git/GitHub version control
+### 1. Project A.C.E. — Autonomous Canine Explorer
+**Technologies:** Unity 6, C#, Robotics Simulation  
+**Status:** In Progress
 
-### Coming Soon
-- Robotic dog model
-- Walking animation
-- Camera follow system
-- Obstacle avoidance
-- AI navigation
-- Autonomous behaviors
+A robotics simulation featuring a virtual robotic dog. This project explores object-oriented programming, character movement, patrol behaviors, and obstacle detection and avoidance.
 
-🔗 **Repository:**  
-https://github.com/skc1339/ProjectACE
-### WordGame (iOS App)
-https://github.com/skc1339/WordGame-iOS
+**Implemented work includes:**
+- C# scripts for robotic dog movement and behavior
+- Keyboard-controlled movement
+- Patrol movement and turning behaviors
+- Obstacle avoidance development
+- Iterative testing and debugging in Unity
 
-### WebGL Cube (Computer Graphics)
-https://github.com/skc1339/WebGL-3D-Cube
+Further improvements to movement, animation, and autonomous behavior are ongoing.
 
-### Unity Rocky (3D Animation)
-https://github.com/skc1339/Rocky-Unity
+**[View Project A.C.E. on GitHub](https://github.com/skc1339/ProjectACE)**
 
-### Concurrency Threading
-https://github.com/skc1339/ConcurrencyThreading
+### 2. Task Manager REST API
+**Technologies:** Java, Spring Boot, Maven, REST APIs, Git  
+**Status:** In Progress
+
+A backend Java application built with Spring Boot to practice RESTful web services, object-oriented programming, and API development.
+
+**Current features:**
+- Spring Boot application setup
+- REST controller and HTTP GET endpoints
+- Task model with ID, title, and completion status
+- JSON responses
+- Maven-based build and Git version control
+
+**Planned improvements:** Full CRUD functionality, persistent database storage, automated tests, and API documentation.
+
+**[View Task Manager API on GitHub](https://github.com/skc1339/taskmanager-api)**
+
+### 3. Medication Management Application
+**Technologies:** HTML, CSS, JavaScript
+
+A web-based application developed as a Computer Science capstone project, focused on organizing medication information and applying frontend development principles.
+
+**[View Medication Management App on GitHub](https://github.com/skc1339/MedicationManagementApp)**
+
+### 4. WordGame — iOS Application
+**Technologies:** Swift, SwiftUI, Xcode
+
+An iOS word-game application featuring multiple interactive game modes, including word guessing, unscrambling, and phrase completion.
+
+**[View WordGame-iOS on GitHub](https://github.com/skc1339/WordGame-iOS)**
+
+## Additional Projects
+
+### WebGL 3D Cube
+**Technologies:** WebGL, JavaScript, Computer Graphics
+
+A computer graphics project exploring interactive 3D rendering.
+
+**[View WebGL 3D Cube](https://github.com/skc1339/WebGL-3D-Cube)**
+
+### Unity Rocky — 3D Animation
+**Technologies:** Unity, C#
+
+A Unity project focused on character construction, movement, and animation scripting.
+
+**[View Unity Rocky](https://github.com/skc1339/Rocky-Unity)**
+
+### Concurrency and Threading
+A programming project exploring concurrent execution and multithreading concepts.
+
+## Technical Skills
+
+**Languages:** Java, C#, Swift, Kotlin, JavaScript, HTML, CSS, SQL, C++
+
+**Frameworks and Tools:** Spring Boot, SwiftUI, Unity, Android Studio, Xcode, Maven, Git, GitHub, VS Code
+
+**Concepts:** Object-Oriented Programming, REST APIs, Mobile Development, Software Engineering, Debugging, Concurrency, Computer Graphics
+
+---
+
+*This portfolio is actively maintained as I continue developing and improving my software engineering projects.*
